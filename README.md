@@ -97,4 +97,9 @@ streamlit run app.py
 - `GraphFunctions.py:` Contains the functions for creating various visualizations (e.g., maps and charts). This includes plotting functions for comparing educational levels and other metrics across states and districts.
 
 7. **Screenshots**
-   https://github.com/user-attachments/assets/d51db0fb-b55f-4ed7-8770-fa57fa242eda 
+
+
+https://github.com/user-attachments/assets/612bc4f3-3f40-49e7-9007-7e3d86a8593e
+
+
+   
