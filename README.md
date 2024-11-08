@@ -4,6 +4,8 @@
 
 This project provides an interactive web application for analyzing India's 2011 Census data. Built using Streamlit, Pandas, and Plotly, the app enables users to explore state and district-level information on various demographics, such as education levels, across the country.
 
+https://india-census-dashboard-favrwbfqfjtynsglgp7xpb.streamlit.app/ 
+
 ## Table of Contents
 
 - [Features](#features)
