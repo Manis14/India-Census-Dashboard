@@ -89,12 +89,12 @@ streamlit run app.py
 - **District-Level Analysis:** Visualize and compare district-level metrics.
 
 5. **Visualizations**
-- **Bubble Map:** Display educational comparisons (e.g., primary vs. secondary education levels) on a map, where bubble size and color represent the metrics.
-- **State and District-Level Graphs:** Visualize census data for specific states and districts using interactive bar charts and scatter plots.
+- `Bubble Map:` Display educational comparisons (e.g., primary vs. secondary education levels) on a map, where bubble size and color represent the metrics.
+- `State and District-Level Graphs:` Visualize census data for specific states and districts using interactive bar charts and scatter plots.
 
 6. **File Descriptions**
-- **app.py:** The main script for the Streamlit application. It defines the layout, loads the data, and creates the interactive dashboard with options to analyze and visualize the census data.
-- **GraphFunctions.py:** Contains the functions for creating various visualizations (e.g., maps and charts). This includes plotting functions for comparing educational levels and other metrics across states and districts.
+- `app.py:` The main script for the Streamlit application. It defines the layout, loads the data, and creates the interactive dashboard with options to analyze and visualize the census data.
+- `GraphFunctions.py:` Contains the functions for creating various visualizations (e.g., maps and charts). This includes plotting functions for comparing educational levels and other metrics across states and districts.
 
 7. **Screenshots**
    https://github.com/user-attachments/assets/d51db0fb-b55f-4ed7-8770-fa57fa242eda 
