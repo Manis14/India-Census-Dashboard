@@ -11,7 +11,7 @@ This project provides an interactive web application for analyzing India's 2011 
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
