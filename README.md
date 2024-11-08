@@ -1,3 +1,5 @@
+
+
 # India Census 2011 Data Analysis
 
 This project provides an interactive web application for analyzing India's 2011 Census data. Built using Streamlit, Pandas, and Plotly, the app enables users to explore state and district-level information on various demographics, such as education levels, across the country.
@@ -10,7 +12,7 @@ This project provides an interactive web application for analyzing India's 2011 
 - [Data Files](#data-files)
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
+
 
 
 ## Features
@@ -95,4 +97,4 @@ streamlit run app.py
 - **GraphFunctions.py:** Contains the functions for creating various visualizations (e.g., maps and charts). This includes plotting functions for comparing educational levels and other metrics across states and districts.
 
 7. **Screenshots**
-   
+   https://github.com/user-attachments/assets/d51db0fb-b55f-4ed7-8770-fa57fa242eda 
